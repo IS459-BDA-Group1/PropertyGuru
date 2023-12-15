@@ -25,7 +25,10 @@ Detailed explanation on the pipeline architecture: [Video](https://www.youtube.c
 <br>
 ![Proposal](./ReadMeImages/Pipeline.png)
 
-## Analytics (Delving down on Far East Plaza, VivoCity and Heartland Mall)
+## Analytics
+Delving down on Far East Plaza, VivoCity and Heartland Mall. Feel free to click here and access the full presentation.
+[Final Presentation](https://docs.google.com/presentation/d/1AuYLCCPpob2rtDGITdEVSbp5hWXVzKmEkXFX4tnxQ2M/edit?usp=sharing)
+
 ### 1. Competitors
 With an outstanding average rating of 5.57 for its booths, Far East Plaza stands out among the three malls. In contrast, VivoCity faces a challenge with an average rating struggling to surpass 2.71, suggesting a less consistent quality across its stalls. Heartland Mall falls in between, presenting a respectable average rating of 2.16. Delving into the specifics, it becomes evident that food establishments dominate the scene in each mall, with a mix of beverages and retail adding diversity. For those seeking top-notch stalls, Far East Plaza emerges as the preferred destination, while navigating VivoCity might require a more discerning search for quality options.
 ![Competitors](./ReadMeImages/Competitors.png)
