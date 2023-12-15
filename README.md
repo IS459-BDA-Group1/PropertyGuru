@@ -22,11 +22,12 @@ Implement a data-driven tenant-matching platform to optimise store placement wit
 
 ## Big Data Pipeline Architecture
 Detailed explanation on the pipeline architecture: [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
-<br>
+<br><br>
 ![Proposal](./ReadMeImages/Pipeline.png)
 
 ## Analytics
 Delving down on Far East Plaza, VivoCity and Heartland Mall. Feel free to click here and access the full presentation.
+<br>
 [Final Presentation](https://docs.google.com/presentation/d/1AuYLCCPpob2rtDGITdEVSbp5hWXVzKmEkXFX4tnxQ2M/edit?usp=sharing)
 
 ### 1. Competitors
