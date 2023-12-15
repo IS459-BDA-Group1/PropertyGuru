@@ -14,7 +14,7 @@ Implement a data-driven tenant-matching platform to optimise store placement wit
 * Urban Redevelopment Authority (URA)
 
 ## Big Data Pipeline Architecture
-Video: [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
+Detailed explanation on the pipeline architecture: [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
 <br>
 ![Proposal](./ReadMeImages/Pipeline.png)
 
