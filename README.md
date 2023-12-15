@@ -26,8 +26,7 @@ Detailed explanation on the pipeline architecture: [Video](https://www.youtube.c
 ![Proposal](./ReadMeImages/Pipeline.png)
 
 ## Analytics
-Delving down on Far East Plaza, VivoCity and Heartland Mall. Feel free to click here and access the full presentation.
-<br>
+Delving down on Far East Plaza, VivoCity and Heartland Mall. Feel free to click here and access the full presentation : 
 [Final Presentation](https://docs.google.com/presentation/d/1AuYLCCPpob2rtDGITdEVSbp5hWXVzKmEkXFX4tnxQ2M/edit?usp=sharing)
 
 ### 1. Competitors
