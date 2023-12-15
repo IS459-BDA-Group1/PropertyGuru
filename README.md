@@ -13,6 +13,13 @@ Implement a data-driven tenant-matching platform to optimise store placement wit
 * PropertyGuru Data
 * Urban Redevelopment Authority (URA)
 
+## Tech Stack
+* Puppeteer
+* BeautifulSoup
+* Pandas
+* PySpark
+* AWS
+
 ## Big Data Pipeline Architecture
 Detailed explanation on the pipeline architecture: [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
 <br>
