@@ -15,6 +15,7 @@ Implement a data-driven tenant-matching platform to optimise store placement wit
 
 ## Big Data Pipeline Architecture
 Video: [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
+<br>
 ![Proposal](./ReadMeImages/Pipeline.png)
 
 ## Analytics
