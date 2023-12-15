@@ -21,7 +21,7 @@ Implement a data-driven tenant-matching platform to optimise store placement wit
 * AWS
 
 ## Big Data Pipeline Architecture
-Detailed explanation on the pipeline architecture: [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
+Detailed explanation on the pipeline architecture : [Video](https://www.youtube.com/watch?v=MjCRU8VyMDQ)
 <br><br>
 ![Proposal](./ReadMeImages/Pipeline.png)
 
